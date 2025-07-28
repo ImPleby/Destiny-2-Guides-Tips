@@ -19,6 +19,7 @@ title: Destiny 2 Raids
 <li><a href="The_Desert_Perpetual.html">The Desert Perpetual</a></li>
 <li><a href="Vault_of_Glass.html">Vault of Glass</a></li>
 <li><a href="Vow_of_the_Disciple.html">Vow of the Disciple</a></li>
+</ul>
 
 <h2>Dungeons</h2>
 <ul>
@@ -32,7 +33,5 @@ title: Destiny 2 Raids
 <li><a href="Sundered_Doctrine.html">Sundered Doctrine</a></li>
 <li><a href="Vespers_Host.html">Vespers Host</a></li>
 <li><a href="Warlords_Ruin.html">Warlord’s Ruin</a></li>
-</ul>
-
 </ul>
 </div>
