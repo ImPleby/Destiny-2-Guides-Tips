@@ -1,0 +1,79 @@
+---
+---
+
+@import "minima";
+
+/* Dark theme override for Minima */
+body {
+    background-color: #2a2a2a !important;
+    color: #e0e0e0 !important;
+}
+
+.site-header {
+    background-color: #1a1a1a !important;
+    border-bottom: 2px solid #444 !important;
+}
+
+.site-title, .site-title:visited {
+    color: #f2b705 !important;
+}
+
+.site-nav .page-link {
+    color: #66ccff !important;
+}
+
+.site-nav .page-link:hover {
+    color: #99ddff !important;
+}
+
+.post-content, .page-content {
+    background-color: #333333 !important;
+    padding: 30px !important;
+    border-radius: 8px !important;
+    margin: 20px 0 !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #f2b705 !important;
+    border-bottom: 1px solid #f2b705 !important;
+    padding-bottom: 5px !important;
+}
+
+a {
+    color: #66ccff !important;
+}
+
+a:hover {
+    color: #99ddff !important;
+}
+
+ul li {
+    margin: 10px 0 !important;
+    padding: 8px 12px !important;
+    background-color: #404040 !important;
+    border-radius: 4px !important;
+    border-left: 4px solid #f2b705 !important;
+}
+
+ul li:hover {
+    background-color: #4a4a4a !important;
+}
+
+img {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+    margin: 15px 0 !important;
+}
+
+.site-footer {
+    background-color: #1a1a1a !important;
+    color: #e0e0e0 !important;
+    border-top: 2px solid #444 !important;
+}
+
+.footer-heading {
+    color: #f2b705 !important;
+}

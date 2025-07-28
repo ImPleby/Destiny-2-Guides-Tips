@@ -3,8 +3,6 @@ layout: default
 title: Crota's End
 ---
 
-<div class="container">
-
 # Crota's End
 
 Infographics and guides for **Crota's End**.
@@ -18,5 +16,3 @@ Infographics and guides for **Crota's End**.
 ![Maze](imgs/ce_maze.png)
 
 [← Back to Home](../../index.html)
-
-</div>
