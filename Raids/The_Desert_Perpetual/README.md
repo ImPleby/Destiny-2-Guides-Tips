@@ -2,6 +2,9 @@
 
 This folder contains infographics and guides for **The Desert Perpetual**.
 
+### [← Back to Raids](../)
+---
+
 ## Loot Table
 
 ![Loot Table](dsc_loot.png)

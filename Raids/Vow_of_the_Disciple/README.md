@@ -2,6 +2,9 @@
 
 This folder contains infographics and guides for **Vow of the Disciple**.
 
+### [← Back to Raids](../)
+---
+
 ## Loot Table
 
 ![Loot Table](vow_loot.jpg)

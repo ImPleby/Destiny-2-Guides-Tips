@@ -2,6 +2,9 @@
 
 This folder contains infographics and guides for **Salvation's Edge**.
 
+### [← Back to Raids](../)
+---
+
 ## Loot Table
 
 ![Loot Table](se_loot.webp)
