@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Destiny 2 Raids
+title: Destiny 2 Helpful Tips
 ---
 
 <div class="container">
-<h1>Destiny 2 Raids & Guides</h1>
-<p>Welcome! Select a raid or dungeon below to view its infographics and guides.</p>
+<h1>Destiny 2 Guides Hub</h1>
+<p>Browse all raids, dungeons, and resources below.</p>
 
 <h2>Raids</h2>
 <ul>
@@ -32,6 +32,14 @@ title: Destiny 2 Raids
 <li><a href="Spire_of_the_Watcher.html">Spire of the Watcher</a></li>
 <li><a href="Sundered_Doctrine.html">Sundered Doctrine</a></li>
 <li><a href="Vespers_Host.html">Vespers Host</a></li>
-<li><a href="Warlords_Ruin.html">Warlord’s Ruin</a></li>
+<li><a href="Warlords_Ruin.html">Warlords Ruin</a></li>
+</ul>
+
+<h2>Resources</h2>
+<ul>
+<li><a href="Engram_Focus_Guide.html">Engram Focus Guide</a></li>
+<li><a href="Weapon_Perk_Guide.html">Weapon Perk Guide</a></li>
+<li><a href="Seasonal_Materials.html">Seasonal Materials</a></li>
+<li><a href="Leveling_Tips.html">Leveling Tips</a></li>
 </ul>
 </div>
