@@ -10,10 +10,10 @@ title: Crota's End
 
 ## Loot Table
 
-![Loot Table](ce_loot.jpg)
+![Loot Table](imgs/ce_loot.jpg)
 
 ## Maze
 
-![Maze](ce_maze.png)
+![Maze](imgs/ce_maze.png)
 
 [← Back to Home](../../Home.html)
