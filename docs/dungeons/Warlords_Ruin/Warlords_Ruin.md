@@ -14,4 +14,4 @@ Put images in the `imgs` folder and use:
 
 `![Description](imgs/example.jpg)`
 
-[← Back to Home](../../Home.html)
+[← Back to Home](../../index.html)

@@ -17,5 +17,5 @@ Infographics and guides for **Crota's End**.
 
 ![Maze](imgs/ce_maze.png)
 
-[← Back to Home](../../Home.html)
+[← Back to Home](../../index.html)
 </div>

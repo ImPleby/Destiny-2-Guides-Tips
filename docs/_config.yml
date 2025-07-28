@@ -1,0 +1,34 @@
+# GitHub Pages Configuration
+title: "Destiny 2 Helpful Tips"
+description: "Comprehensive guides for Destiny 2 raids, dungeons, and resources"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages settings
+theme: null
+plugins:
+  - jekyll-relative-links
+
+# Enable relative links processing
+relative_links:
+  enabled: true
+  collections: false
+
+# Include markdown files in relative links processing
+include:
+  - "*.md"
+  - "**/*.md"
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Set the base URL (leave empty for GitHub Pages)
+baseurl: ""
+url: ""
