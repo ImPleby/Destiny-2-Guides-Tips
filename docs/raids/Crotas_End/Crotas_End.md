@@ -4,9 +4,10 @@ title: Crota's End
 ---
 
 <div class="container">
-<h1>Crota's End</h1>
-<p>Infographics and guides for <strong>Crota's End</strong>.</p>
-</div>
+
+# Crota's End
+
+Infographics and guides for **Crota's End**.
 
 ## Loot Table
 
@@ -17,3 +18,4 @@ title: Crota's End
 ![Maze](imgs/ce_maze.png)
 
 [← Back to Home](../../Home.html)
+</div>
