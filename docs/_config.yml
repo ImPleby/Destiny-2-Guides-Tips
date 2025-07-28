@@ -5,9 +5,11 @@ description: "Comprehensive guides for Destiny 2 raids, dungeons, and resources"
 # Build settings
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # GitHub Pages settings
-theme: null
 plugins:
   - jekyll-relative-links
 
@@ -32,3 +34,11 @@ exclude:
 # Set the base URL (leave empty for GitHub Pages)
 baseurl: ""
 url: ""
+
+# Ensure markdown files are processed
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
