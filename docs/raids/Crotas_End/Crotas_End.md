@@ -8,10 +8,12 @@ title: Crota's End
 <p>Infographics and guides for <strong>Crota's End</strong>.</p>
 </div>
 
-## Add Your Content
+## Loot Table
 
-Put images in the `imgs` folder and use:
+![Loot Table](ce_loot.jpg)
 
-`![Description](imgs/example.jpg)`
+## Maze
+
+![Maze](ce_maze.png)
 
 [← Back to Home](../../Home.html)
