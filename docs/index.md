@@ -5,7 +5,7 @@ title: Destiny 2 Helpful Tips
 
 <div class="container">
 <h1>Destiny 2 Guides Hub</h1>
-<p>Browse all Raids, Dungeons, and Resources below.</p>
+<p>Browse all Raids, Dungeons, and Resources below. meow</p>
 
 <h2>Raids</h2>
 <ul>
