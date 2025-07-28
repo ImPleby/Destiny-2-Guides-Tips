@@ -6,7 +6,7 @@ This folder contains infographics and guides for **Crota's End**.
 Place any raid or dungeon images in this folder. To display them in this README, use the format below:
 
 ```markdown
-![Loot Table](ce_loot.png)
+![Loot Table](ce_loot.jpg)
 ```
 
 ---
