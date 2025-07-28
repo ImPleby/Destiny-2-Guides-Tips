@@ -2,12 +2,16 @@
 
 This folder contains infographics and guides for **Vow of the Disciple**.
 
-## Add Your Images
-Place any raid or dungeon images in this folder. To display them in this README, use the format below:
+## Loot Table
 
-```markdown
-![Description of image](image-name.png)
-```
-Replace `image-name.png` with the actual file name.
+![Loot Table](vow_loot.jpg)
+
+## Red Border
+
+![Red Border](vow_redborder.jpg)
+
+## Symbols
+
+![Symbols](vow_symbols.jpg)
 
 ---

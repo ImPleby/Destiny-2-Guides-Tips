@@ -2,12 +2,16 @@
 
 This folder contains infographics and guides for **King's Fall**.
 
-## Add Your Images
-Place any raid or dungeon images in this folder. To display them in this README, use the format below:
+## Loot Table
 
-```markdown
-![Description of image](image-name.png)
-```
-Replace `image-name.png` with the actual file name.
+![Loot Table](kf_loot.jpg)
+
+## Red Border
+
+![Red Border](kf_redborder.jpg)
+
+## Maze
+
+![Maze](kf_maze.jpg)
 
 ---
